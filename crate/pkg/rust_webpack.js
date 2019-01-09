@@ -33,6 +33,8 @@ let WASM_VECTOR_LEN = 0;
 
 function passStringToWasm(arg) {
 
+    if (typeof(arg) !== 'string') throw new Error('expected a string argument');
+
     const buf = cachedTextEncoder.encode(arg);
     const ptr = wasm.__wbindgen_malloc(buf.length);
     getUint8Memory().set(buf, ptr);
@@ -110,6 +112,8 @@ function addHeapObject(obj) {
     if (heap_next === heap.length) heap.push(heap.length + 1);
     const idx = heap_next;
     heap_next = heap[idx];
+
+    if (typeof(heap_next) !== 'number') throw new Error('corrupt heap');
 
     heap[idx] = obj;
     return idx;

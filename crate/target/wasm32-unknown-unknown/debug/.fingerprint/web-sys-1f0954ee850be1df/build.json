@@ -1,1 +1,0 @@
-{"rustc":0,"features":"","target":0,"profile":0,"path":0,"deps":[],"local":[{"MtimeBased":[[1546910968,865029360],"/home/bloom510/Desktop/hello-wasm/crate/target/wasm32-unknown-unknown/debug/build/web-sys-1f0954ee850be1df/output"]},{"EnvBased":["__WASM_BINDGEN_DUMP_FEATURES",null]},{"EnvBased":["WEBIDL_RUSTFMT_BINDINGS",null]}],"rustflags":[],"edition":"Edition2015"}

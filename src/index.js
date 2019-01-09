@@ -10,6 +10,7 @@ class App extends Component {
     componentDidMount() {
         import("../crate/pkg").then(wasm => {
             this.setState({ msg: wasm.return_string() });
+            this.module = wasm; /* Store module in memory so we can use it later */
         });
     }
     render() {

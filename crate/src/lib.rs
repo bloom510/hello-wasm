@@ -54,3 +54,8 @@ extern {
 pub fn greet(name: &str) {
     alert(&format!("Hello, {}!", name));
 }
+
+#[wasm_bindgen]
+pub fn return_string() -> String {
+    "Hello from Rust, WebAssembly, and React!".into()
+}

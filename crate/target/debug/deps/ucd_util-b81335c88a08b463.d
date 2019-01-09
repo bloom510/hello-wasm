@@ -1,0 +1,11 @@
+/home/bloom510/Desktop/hello-wasm/crate/target/debug/deps/libucd_util-b81335c88a08b463.rlib: /home/bloom510/.cargo/registry/src/github.com-1ecc6299db9ec823/ucd-util-0.1.3/src/lib.rs /home/bloom510/.cargo/registry/src/github.com-1ecc6299db9ec823/ucd-util-0.1.3/src/hangul.rs /home/bloom510/.cargo/registry/src/github.com-1ecc6299db9ec823/ucd-util-0.1.3/src/ideograph.rs /home/bloom510/.cargo/registry/src/github.com-1ecc6299db9ec823/ucd-util-0.1.3/src/name.rs /home/bloom510/.cargo/registry/src/github.com-1ecc6299db9ec823/ucd-util-0.1.3/src/property.rs /home/bloom510/.cargo/registry/src/github.com-1ecc6299db9ec823/ucd-util-0.1.3/src/unicode_tables/mod.rs /home/bloom510/.cargo/registry/src/github.com-1ecc6299db9ec823/ucd-util-0.1.3/src/unicode_tables/jamo_short_name.rs
+
+/home/bloom510/Desktop/hello-wasm/crate/target/debug/deps/ucd_util-b81335c88a08b463.d: /home/bloom510/.cargo/registry/src/github.com-1ecc6299db9ec823/ucd-util-0.1.3/src/lib.rs /home/bloom510/.cargo/registry/src/github.com-1ecc6299db9ec823/ucd-util-0.1.3/src/hangul.rs /home/bloom510/.cargo/registry/src/github.com-1ecc6299db9ec823/ucd-util-0.1.3/src/ideograph.rs /home/bloom510/.cargo/registry/src/github.com-1ecc6299db9ec823/ucd-util-0.1.3/src/name.rs /home/bloom510/.cargo/registry/src/github.com-1ecc6299db9ec823/ucd-util-0.1.3/src/property.rs /home/bloom510/.cargo/registry/src/github.com-1ecc6299db9ec823/ucd-util-0.1.3/src/unicode_tables/mod.rs /home/bloom510/.cargo/registry/src/github.com-1ecc6299db9ec823/ucd-util-0.1.3/src/unicode_tables/jamo_short_name.rs
+
+/home/bloom510/.cargo/registry/src/github.com-1ecc6299db9ec823/ucd-util-0.1.3/src/lib.rs:
+/home/bloom510/.cargo/registry/src/github.com-1ecc6299db9ec823/ucd-util-0.1.3/src/hangul.rs:
+/home/bloom510/.cargo/registry/src/github.com-1ecc6299db9ec823/ucd-util-0.1.3/src/ideograph.rs:
+/home/bloom510/.cargo/registry/src/github.com-1ecc6299db9ec823/ucd-util-0.1.3/src/name.rs:
+/home/bloom510/.cargo/registry/src/github.com-1ecc6299db9ec823/ucd-util-0.1.3/src/property.rs:
+/home/bloom510/.cargo/registry/src/github.com-1ecc6299db9ec823/ucd-util-0.1.3/src/unicode_tables/mod.rs:
+/home/bloom510/.cargo/registry/src/github.com-1ecc6299db9ec823/ucd-util-0.1.3/src/unicode_tables/jamo_short_name.rs:

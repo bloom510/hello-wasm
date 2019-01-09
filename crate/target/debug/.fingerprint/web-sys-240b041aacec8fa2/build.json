@@ -1,0 +1,1 @@
+{"rustc":0,"features":"","target":0,"profile":0,"path":0,"deps":[],"local":[{"MtimeBased":[[1546911042,199031869],"build/web-sys-240b041aacec8fa2/output"]},{"EnvBased":["__WASM_BINDGEN_DUMP_FEATURES",null]},{"EnvBased":["WEBIDL_RUSTFMT_BINDINGS",null]}],"rustflags":[],"edition":"Edition2015"}

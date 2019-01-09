@@ -8,7 +8,6 @@ class App extends Component {
         this.state = {};
     }
     componentDidMount() {
-        console.log(wasm)
         import("../crate/pkg").then(wasm => {
             this.setState({ msg: wasm.return_string() });
         });

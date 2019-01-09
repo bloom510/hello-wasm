@@ -1,4 +1,4 @@
-This project builds upon the rust-webpack-template by hooking react into the build pipeline.
+This project builds upon the rust-webpack-template by hooking React into the build pipeline.
 
 * First, [install `wasm-pack`!](https://rustwasm.github.io/wasm-pack/installer/)
 
